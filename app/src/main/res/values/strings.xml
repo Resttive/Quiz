@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+
+    <string name="q_activity">Wzorzec Budowniczy (Builder) stosujemy, gdy obiekt tworzymy w złożony sposób, w wielu krokach</string>
+    <string name="q_version">We wzorcu Abstrakcyjna (Abstract Factory), aby zmienić zestaw produkowanych obiektów, należy użyć innej klasy fabryki</string>
+    <string name="q_listener">Konkretna klasa Budowniczego decyduje o sposobie tworzenia części konstruowanego obiektu</string>
+    <string name="q_resources">Kopia płytka to dokładna kopia binarna obiektu</string>
+    <string name="q_find_resources">Klonowanie to tworzenie dokładnej kopii obiektu</string>
+    <string name="correct_answer">Prawidłowa odpowiedź</string>
+    <string name="incorrect_answer">Nie prawidłowa odpowiedź</string>
+    <string name="answer_was_shown">Oszukujesz! Odpowiedź była już wyświetlona.</string>
+</resources>
